@@ -51,6 +51,10 @@ Core similarity formula:
 - Weighted credibility scoring
 - Hallucination detection heuristics
 
+## 🚀 Live Demo
+
+https://trust-lens-2ububsrgh22xgwconkiveu.streamlit.app/
+
 
 
 
